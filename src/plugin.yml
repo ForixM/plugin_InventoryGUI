@@ -1,0 +1,8 @@
+name: InventoryGUI
+version: 1.0
+main: fr.forix.inventorygui.Main
+author: Forix
+description: InventoryGUI permet de créer un inventaire personnalisé avec des actions executées.
+commands:
+    menu:
+        description: Permet d'accéder à l'inventaire personnalisé

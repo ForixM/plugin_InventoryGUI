@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="InventoryGUI">
+    <output-path>$USER_HOME$/Desktop/serveurs MC/Serveur MC spigot 1.7.10/plugins</output-path>
+    <root id="archive" name="InventoryGUI.jar">
+      <element id="module-output" name="InventoryGUI" />
+    </root>
+  </artifact>
+</component>
